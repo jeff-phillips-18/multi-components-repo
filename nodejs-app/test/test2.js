@@ -1,5 +1,6 @@
 var assert = require('assert');
 
+
 (function(){
     'use strict';
 
